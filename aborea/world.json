@@ -1,0 +1,31 @@
+{
+  "name": "aborea",
+  "title": "ABOREA",
+  "description": "",
+  "authors": [],
+  "flags": {},
+  "version": "1.0.0",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [
+    {
+      "label": "Klassen",
+      "entity": "Actor",
+      "name": "klassen",
+      "path": "packs/klassen.db",
+      "system": "sandbox",
+      "package": "world",
+      "private": false
+    }
+  ],
+  "system": "sandbox",
+  "dependencies": [],
+  "socket": false,
+  "protected": false,
+  "coreVersion": "0.8.9",
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "0.10.1"
+}
